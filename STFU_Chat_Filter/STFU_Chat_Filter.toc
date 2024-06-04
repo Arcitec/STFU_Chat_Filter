@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: Gnomezilla [Warmane-Icecrown(A)]
+## Version: 1.0
+## Title: |cffe5e3e3STFU: Shut the Fuck Up!|r
+## Notes: Shut the fuck up, thanks.
+
+main.lua
